@@ -5,8 +5,9 @@ certmanager  is a spring boot microservice which uses to manage all incoming cer
 ## Building
 
 git clone https://github.com/rjtch/certmanager.git
-mvn clean install
 
+mvn clean install
+ 
 ## Running
 
 mvn spring-boot:run 
